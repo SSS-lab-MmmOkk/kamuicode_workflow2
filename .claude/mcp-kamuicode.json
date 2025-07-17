@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+      "t2i-google-imagen3": {
+        "type": "http",
+        "url": "https://mcp-flux-kontext-only-20250716-020022-44f00679-zl3xx5lsaq-uc.a.run.app/",
+        "description": "Imagen3"
+      }
+    }
+  }
